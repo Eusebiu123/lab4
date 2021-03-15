@@ -1,0 +1,6 @@
+compulosry/Student.java
+ compulosry.Student
+compulosry/School.java
+ compulosry.School
+compulosry/Main.java
+ compulosry.Main
